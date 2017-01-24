@@ -1,3 +1,6 @@
+ud120-projects/
+maildir/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
